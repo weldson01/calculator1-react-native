@@ -11,3 +11,4 @@ Calculator 1 is a simple calculator, it's able to make simples operations and th
 <p>install all dependencies <code>npm install</code></p>
 <p>try run it <code>npm start</code></p>
 <p>good job!</p>
+<a href="https://www.linkedin.com/in/weldson-carlos/" target="blank">Let's chat</a>
